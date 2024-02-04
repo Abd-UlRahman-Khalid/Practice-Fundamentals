@@ -18,7 +18,7 @@ int main()
     for (int i = 5; i >= 2; i--)
     {
         cout << nums[i] << "\n";
-        //to print 600 , 500 , 400 ,300
+        //to print 600 , 500 , 400 , 300
     }
 
     return 0;
