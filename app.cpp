@@ -25,5 +25,3 @@ int main()
     return 0;
 }
 
-// when comment become a bad code
-// when you make the progrome in readable
